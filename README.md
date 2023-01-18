@@ -199,7 +199,7 @@ Then good news for you: **We are ready to pay for your contribution via [@gitcoi
 1. You are more than welcome to participate and get bounty by contributing! **Your contribution will be paid via  [@gitcoin Grant program](https://gitcoin.co/grants/358/web3swift).**
 2. Find or create an [issue](https://github.com/web3swift-team/web3swift/issues)
 3. You can find open bounties in [Gitcoin Bounties](https://gitcoin.co/explorer?applicants=ALL&keywords=web3swift&order_by=-web3_created) list
-4. Commita fix or a new feature in branch, push your changes
+4. Commit a fix or a new feature in branch, push your changes
 5. [Submit a pull request to **develop** branch](https://github.com/web3swift-team/web3swift/pulls)
 	1. Please, provide detailed description to it to help us proceed it faster.
 
